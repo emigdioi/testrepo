@@ -1,0 +1,6 @@
+Stage or unstage my changes
+Commit them to local repo
+    Must add a commit message
+Push Changes to remote repo
+Pull other changes from Remote repo
+    Sync command does push/pull together
